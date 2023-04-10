@@ -1,0 +1,30 @@
+.texto, .paragrafo{
+    color: white;
+    font-weight: bold;
+}
+
+.botão {
+    color: black;
+    background: blue;
+}
+
+h1 {
+    font-size: 5cm;
+}
+
+/* 
+
+        UNIDADES DE MEDIDAS
+
+        --> ABSOLUTAS   
+             px (pixels) 1/100 polegada 0,254
+             in (inches/polegadas)
+             cm / mm (centímetro / milímetro)
+
+        --> RELATIVAS
+             % calcula o tamanho relativo ao elemento pai.
+             VW (view width) 1vw é 1% da largura da janela do navegador.
+             VH (view height) 1hv é 1% da altura da janela do navegador.
+             EM é uma unidade relativa ao elemento pai.
+             REM é uma unidade relativa do elemento raiz.
+*/

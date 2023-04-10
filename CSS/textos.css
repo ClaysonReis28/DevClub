@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Oswald&family=Roboto:wght@300&display=swap');
+h1 {
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 10px red;   /*1°sombra da horizontal, 2°na vertical, 3°expessura, 4° cor*/
+}
+
+p {
+    color: blue;         /*Cor da fonte*/
+    font-size: 30px;       /*Tamanho da fonte*/
+    font-weight: 900;      /*Expessura da fonte*/
+    font-family: 'Roboto', sans-serif;      /*Família da letra*/
+    font-style: italic;    /*Estilo da fonte*/
+    line-height: 50px;     /*Altura das linhas*/
+    letter-spacing: 10px;  /*Espaçamento entre as letras*/
+    word-spacing: 40px;    /*Espaçamento entre as palavras*/
+    text-align: center;    /*Alinhamento do texto*/
+    text-transform: capitalize;      /*Todas as letras maiúsculas ou minúsculas*/
+    text-decoration: underline;      /*"decoração do texto"*/
+}
